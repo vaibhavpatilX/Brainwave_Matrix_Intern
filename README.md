@@ -19,14 +19,14 @@ This is an ATM interface implemented in Python. It supports the following functi
 ## How to Run
 1. **Ensure Python is installed** on your system (Python 3.6 or higher recommended).
 2. **Download the Project**:
-   - Clone this repository or download the `atm_enhanced.py` file.
+   - Clone this repository or download the `atm.py` file.
 3. **Navigate to the Project Folder**:
    - Open a terminal or command prompt.
-   - Navigate to the folder containing `atm_enhanced.py`.
+   - Navigate to the folder containing `atm.py`.
 4. **Run the Script**:
    - Use the following command to run the program:
      ```bash
-     python atm_enhanced.py
+     python atm.py
      ```
 5. **Follow the On-Screen Instructions**:
    - Log in as a regular user or admin.
